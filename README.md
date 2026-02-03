@@ -52,4 +52,5 @@ This is a list of publicly available EDR evasion tools.
 | PolyDrop | https://github.com/MalwareSupportGroup/PolyDrop | 2026-02-03 |
 | Ruy-Lopez | https://github.com/S3cur3Th1sSh1t/Ruy-Lopez | 2026-02-03 |
 | Awesome EDR Bypass | https://github.com/tkmru/awesome-edr-bypass | 2026-02-03 |
+| Awesome EDR Evasion | https://github.com/CyberSecurityUP/Awesome-EDR-Evasion | 2026-02-03 |
 | NimBlackout | https://github.com/Helixo32/NimBlackout | 2026-02-03 |
