@@ -54,3 +54,6 @@ This is a list of publicly available EDR evasion tools.
 | Awesome EDR Bypass | https://github.com/tkmru/awesome-edr-bypass | 2026-02-03 |
 | Awesome EDR Evasion | https://github.com/CyberSecurityUP/Awesome-EDR-Evasion | 2026-02-03 |
 | NimBlackout | https://github.com/Helixo32/NimBlackout | 2026-02-03 |
+| Awesome EDR Bypass | https://github.com/AlexDev08/awesome-edr-bypass | 2026-02-03 |
+| Awesome EDR Bypass | https://github.com/shovon58/awesome-edr-bypass-data | 2026-02-03 |
+| CLR-Unhook | https://github.com/david3c2004/CLR-Unhook | 2026-02-03 |
