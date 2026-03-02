@@ -53,6 +53,7 @@ This is a list of publicly available EDR evasion tools.
 | Ruy-Lopez | https://github.com/S3cur3Th1sSh1t/Ruy-Lopez | 2026-02-03 |
 | Awesome EDR Bypass | https://github.com/tkmru/awesome-edr-bypass | 2026-02-03 |
 | Awesome EDR Evasion | https://github.com/CyberSecurityUP/Awesome-EDR-Evasion | 2026-02-03 |
+| BYOVD | https://github.com/BlackSnufkin/BYOVD | 2026-03-02 |
 | NimBlackout | https://github.com/Helixo32/NimBlackout | 2026-02-03 |
 | Awesome EDR Bypass | https://github.com/AlexDev08/awesome-edr-bypass | 2026-02-03 |
 | Awesome EDR Bypass | https://github.com/shovon58/awesome-edr-bypass-data | 2026-02-03 |
