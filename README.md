@@ -59,4 +59,6 @@ This is a list of publicly available EDR evasion tools.
 | Awesome EDR Bypass | https://github.com/AlexDev08/awesome-edr-bypass | 2026-02-03 |
 | Awesome EDR Bypass | https://github.com/shovon58/awesome-edr-bypass-data | 2026-02-03 |
 | CLR-Unhook | https://github.com/david3c2004/CLR-Unhook | 2026-02-03 |
-| UnknownKiller | https://github.com/j3h4ck/UnknownKiller | 2026-03-03
+| UnknownKiller | https://github.com/j3h4ck/UnknownKiller | 2026-03-03 |
+| KslDump - BMVD (Bring the Microsoft Vulnerable Driver) | https://github.com/andreisss/KslDump | 2026-03-25 |
+| ?? | https://github.com/S1lkys/KslKatz | 2026-03-25 |
